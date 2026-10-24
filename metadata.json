@@ -1,0 +1,6 @@
+{
+  "name": "SYNAPSE ROGUE — Neuroplasticity Tactical Mainframe",
+  "description": "Sci-fi roguelite cognitive training mainframe powered by UFOV, Dual N-Back, and NeuroRacer multitask interference control with real-time dynamic difficulty adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
